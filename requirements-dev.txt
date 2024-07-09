@@ -10,3 +10,4 @@ Pygments >= 2
 Sphinx == 5.0.2
 sphinx_rtd_theme >= 1
 git+https://github.com/hylang/sphinxcontrib-hydomain.git
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
